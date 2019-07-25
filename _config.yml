@@ -1,0 +1,19 @@
+# Base configs
+baseurl: "https://dophoto.eu.org"
+image_fulls_loc: "/images"
+image_thumbs_loc: "/images"
+google_analytics: ""
+
+# UI configs
+title: "東京写真日和"
+subtitle: "Tokyo Photo Diary"
+author: "LMD"
+header:
+ title: "Tokyo Photo Diary"
+ subtitle: "by LMD"
+footer:
+ name: "東京写真日和，创建于2013年，站长LMD。"
+ bio: "LMD是谁？LMD是我的网名缩写，用缩写是不想告诉别人我是谁。 为什么创建東京写真日和？点滴分享在日生活。"
+ github: "本站部署于GitPage"
+web_design: ""
+
