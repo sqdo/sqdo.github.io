@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ramswaroop/photography.git"
+    "url": "git+https://github.com/sqdo/sqdo.github.io.git"
   },
   "keywords": [
     "photography",
@@ -22,9 +22,9 @@
   "author": "LMD",
   "license": "GPL-3.0",
   "bugs": {
-    "url": "https://github.com/ramswaroop/photography/issues"
+    "url": "github.com/sqdo/sqdo.github.io/issues"
   },
-  "homepage": "https://github.com/ramswaroop/photography#readme",
+  "homepage": "github.com/sqdo/sqdo.github.io#readme",
   "devDependencies": {
     "del": "^2.2.2",
     "gulp": "^3.9.1",

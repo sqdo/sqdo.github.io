@@ -2,7 +2,7 @@
 baseurl: "https://dophoto.eu.org"
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/thumbs"
-google_analytics: ""
+google_analytics: "UA-121177869-7"
 
 # UI configs
 title: "東京写真日和"
@@ -14,6 +14,6 @@ header:
 footer:
  name: "東京写真日和，创建于2013年，站长LMD。"
  bio: "LMD是谁？LMD是我的网名缩写，用缩写是不想告诉别人我是谁。 为什么创建東京写真日和？点滴分享在日生活。"
- github: "本站部署于GitPage"
+ github: "本站基于Jekyll平台-部署在GitPage上。"
 web_design: ""
 
